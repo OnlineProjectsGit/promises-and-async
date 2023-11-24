@@ -9,6 +9,14 @@ body {
     height: 100vh;
     margin: auto;
 }
+h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 70%;
+}
 
 .user-form {
     width: 60%;
